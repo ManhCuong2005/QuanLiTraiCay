@@ -70,4 +70,4 @@ public class Test {
 		
 		System.out.println("Thank you for you");
 	}
-}
+}.
